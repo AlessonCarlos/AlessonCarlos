@@ -19,13 +19,19 @@ Sou um estudante dedicado de desenvolvimento de software, comprometido em aprimo
 
 Estou concentrado em desenvolver minhas competências na área de software, buscando criar soluções de alta qualidade e aprofundar meu entendimento sobre as melhores práticas do setor.
 
-🔧 Habilidades em Destaque:
+🔧 Stack Tecnológica:
 
-💻 JavaScript e TypeScript
+💻 Linguagens:
+JavaScript | TypeScript
 
-🌐 Front-end: HTML5 e CSS
+🌐 Front-end:
+React | HTML5 | CSS3 | Tailwind
 
-🗄️ Banco de dados
+⚙️ Back-end:
+Node.js | NestJS
+
+🗄️ Banco de Dados:
+MongoDB | SQL
 
 📖 Educação:
 
